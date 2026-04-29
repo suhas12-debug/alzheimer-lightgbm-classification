@@ -1,0 +1,53 @@
+# Data files (ADNI data must not be shared publicly)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.xls
+
+# Trained model files (large binaries)
+models/*.joblib
+models/*.pkl
+models/*.model
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Google Drive mount artifacts
+/content/
+
+# Logs and temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

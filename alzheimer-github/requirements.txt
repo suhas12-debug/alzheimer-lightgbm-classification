@@ -1,0 +1,25 @@
+# Core ML
+lightgbm==4.3.0
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Model persistence
+joblib==1.4.2
+
+# Explainability (optional but recommended)
+shap==0.45.0
+
+# Notebook environment
+ipykernel==6.29.4
+ipython==8.24.0
+
+# Google Colab utilities (pre-installed in Colab, listed for reference)
+# google-colab
