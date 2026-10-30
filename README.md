@@ -70,7 +70,7 @@ The model demonstrates high sensitivity and specificity across all three classes
 
 | Metric | Cognitive Model | MRI Model | Ensemble |
 | :--- | :---: | :---: | :---: |
-| **Accuracy** | ~85% | ~78% | **~89%** |
+| **Accuracy** | ~89% | ~78% | **~89%** |
 | **ROC-AUC (AD)** | 0.94 | 0.88 | **0.96** |
 
 ### Sample Visualizations
